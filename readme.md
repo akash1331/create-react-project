@@ -49,7 +49,6 @@ The project relies on the following dependencies:
 ### Author and License
 
 - **Author**: [P K Akash]
-- **License**: ISC
 ```
 
 This `README.md` file provides a clear description of each npm script and how to use them, making it easier for new developers to get started with the project.
